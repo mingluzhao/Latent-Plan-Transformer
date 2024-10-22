@@ -12,7 +12,7 @@ Official repository for paper **Latent Plan Transformer for Trajectory Abstracti
 We introduce the **Latent Plan Transformer** (LPT), a model that enhances planning without step-wise rewards by leveraging a latent space to connect a Transformer-based trajectory generator to the final return. Trained on trajectory-return pairs, LPT infers latent variables from expected returns before execution, realizing *planning as inference* and achieving competitive performance across benchmarks.
 
 <p align="center">
-<img src="img/LPT-model.png" alt="drawing" width="40%"/>
+<img src="img/LPT-model.png" alt="drawing" width="50%"/>
 <img src="img/LPT-maze.png" alt="drawing" width="80%"/>
 </p>
 
@@ -63,9 +63,9 @@ The `config.py` file includes various environments including Gym-Mujoco, Maze2D,
 ## Reference
 ```
 @article{kong2024latent,
-  title={Latent Plan Transformer: Planning as Latent Variable Inference},
+  title={Latent Plan Transformer for Trajectory Abstraction: Planning as Latent Space Inference},
   author={Kong, Deqian and Xu, Dehong and Zhao, Minglu and Pang, Bo and Xie, Jianwen and Lizarraga, Andrew and Huang, Yuhao and Xie, Sirui and Wu, Ying Nian},
-  journal={arXiv preprint arXiv:2402.04647},
+  journal={Advances in Neural Information Processing Systems},
   year={2024}
 }
 ```
