@@ -1,7 +1,7 @@
 # Latent Plan Transformer for Trajectory Abstraction
 Deqian Kong*, Dehong Xu*, Minglu Zhao*, Bo Pang, Jianwen Xie, Andrew Lizarraga, Yuhao Huang, Sirui Xie*, Ying Nian Wu
 
-*equal contribution
+*Equal contribution
 
 [[Paper link](https://arxiv.org/abs/2402.04647)], [[Project page](https://sites.google.com/view/latent-plan-transformer/home)]
 
