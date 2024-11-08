@@ -1,4 +1,5 @@
-# Latent Plan Transformer for Trajectory Abstraction
+# Latent Plan Transformer for Trajectory Abstraction: 
+## Planning as Latent Space Inference
 Deqian Kong*, Dehong Xu*, Minglu Zhao*, Bo Pang, Jianwen Xie, Andrew Lizarraga, Yuhao Huang, Sirui Xie*, Ying Nian Wu
 
 *Equal contribution
